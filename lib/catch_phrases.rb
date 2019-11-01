@@ -10,4 +10,6 @@ def toadstool
 end
 
 def link
-  
+  sentence = "It's Dangerous To Go Alone! Take This."
+  puts sentence
+end
